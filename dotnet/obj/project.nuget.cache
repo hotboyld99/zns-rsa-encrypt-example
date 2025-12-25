@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vOTAEgwICEo=",
+  "success": true,
+  "projectFilePath": "/Users/trunghieu/Source/FPT/ZNS/more/zns-rsa-encrypt/dotnet/dotnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/trunghieu/.nuget/packages/bouncycastle.netcore/2.2.1/bouncycastle.netcore.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
